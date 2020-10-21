@@ -1,0 +1,21 @@
+pkg update && pkg upgrade
+pkg install python
+pkg install pip
+pkg install rsa
+pkg install bs4
+pip install --upgrade pip
+pip install requests
+pip install colorama
+pip install telethon
+pip install pyaes
+pip install async_generator
+$ termux-setup-storage
+$ cd /storage/emulated/0/clickbot
+$ ls
+$ cd bch
+$ ls
+$ python main.py +6281317459106
+
+password Tayu
+
+link mati Doge BTC BCH zec ltc

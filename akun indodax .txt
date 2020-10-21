@@ -1,0 +1,19 @@
+pkg update && pkg upgrade
+pkg install python
+cd >> lokasi file
+python bot.py
+
+btc
+1Fs1cBk3MGzJRkYiwZJHz37wAMkqPKkEJd
+
+zec
+t1UHeuY97iRnZjxwPfTg2c7UCz9L3k9AeQo
+
+bch
+qp8kc9tqps099w7eg9flsfk6f3wg768n3svl53fddj
+
+ltc
+MCps2BB3meC2aQpSM9NFLG8e2xqaBRyWye
+
+doge
+DFXpQGr68FSzwLe7sVjtnRnyqccyjj46Ti
